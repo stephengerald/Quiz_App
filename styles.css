@@ -1,16 +1,21 @@
 body {
     font-family: Arial, sans-serif;
     text-align: center;
+    background-color: gray;
 }
 
 .quiz-container {
     width: 50%;
     margin: auto;
+    background-color: white;
+    border-radius: 5px;
 }
 
 button {
     margin-top: 10px;
     padding: 10px;
+    background-color: yellow;
+    margin: 2px;
 }
 
 .hidden {
